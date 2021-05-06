@@ -13,7 +13,7 @@ cryptography==2.0.3
 enum34==1.1.6
 evernote==1.25.0
 Flask==0.12.2
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-Migrate==2.1.1
 Flask-Script==2.0.6
 Flask-SocketIO==2.9.2
